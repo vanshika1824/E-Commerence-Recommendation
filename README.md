@@ -252,7 +252,7 @@ GET /recommend/1
 
 # 👩‍💻 Author
 
-**Vanshika Jain**
+**Vanshika Maru**
 
 ---
 
