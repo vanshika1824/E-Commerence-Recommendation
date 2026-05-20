@@ -1,7 +1,11 @@
-id,name,category,description,price,image
-1,Boat Headphones,Electronics,Wireless headphones with bass,1500,https://images.unsplash.com/photo-1505740420928-5e560c06d30e
-2,Noise Earbuds,Electronics,Bluetooth earbuds with mic,2000,https://images.unsplash.com/photo-1583394838336-acd977736f90
-3,HP Laptop,Electronics,8GB RAM i5 laptop,55000,https://images.unsplash.com/photo-1496181133206-80ce9b88a853
-4,Dell Laptop,Electronics,16GB RAM i7 laptop,75000,https://images.unsplash.com/photo-1517336714739-489689fd1ca8
-5,Samsung Phone,Electronics,Android smartphone 8GB RAM,30000,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9
-6,Realme Phone,Electronics,Budget smartphone good battery,15000,https://images.unsplash.com/photo-1512499617640-c74ae3a79d37
+id,name,category,price,image,description
+1,Boat Headphones,Electronics,1500,https://images.unsplash.com/photo-1505740420928-5e560c06d30e,Wireless headphones
+2,Noise Earbuds,Electronics,2000,https://images.unsplash.com/photo-1583394838336-acd977736f90,Noise cancelling earbuds
+3,HP Laptop,Electronics,55000,https://images.unsplash.com/photo-1496181133206-80ce9b88a853,HP gaming laptop
+4,Dell Laptop,Electronics,75000,https://picsum.photos/300/220,Dell office laptop
+5,iPhone 14,Mobiles,80000,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9,Apple smartphone
+6,Samsung Galaxy,Mobiles,65000,https://images.unsplash.com/photo-1598327105666-5b89351aff97,Samsung smartphone
+7,Redmi Note 13,Mobiles,18000,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9,Affordable smartphone with good camera
+8,Apple Watch SE,Electronics,25000,https://images.unsplash.com/photo-1523275335684-37898b6baf30,Smart watch with fitness tracking
+9,Nike Running Shoes,Fashion,5000,https://images.unsplash.com/photo-1542291026-7eec264c27ff,Comfortable running shoes for daily use
+10,Backpack Travel Bag,Accessories,1200,https://images.unsplash.com/photo-1553062407-98eeb64c6a62,Durable travel backpack
