@@ -1,4 +1,4 @@
-# 🛍️ AI Product Recommendation System
+# 🛍️ Product Recommendation System
 
 An AI-powered E-commerce Product Recommendation Web Application built using **FastAPI**, **React**, and **Machine Learning**.
 
@@ -215,19 +215,6 @@ GET /recommend/1
 
 ---
 
-# 📸 Screenshots
-
-## Homepage
-
-- Product Cards
-- Product Images
-- Product Pricing
-- Recommendation Engine
-
-(Add screenshots here later)
-
----
-
 # 🌐 Deployment
 
 ## Frontend Deployment
@@ -244,7 +231,6 @@ GET /recommend/1
 - Wishlist Feature
 - Personalized Recommendations
 - AI Chatbot Assistant
-- Database Integration
 - Product Rating System
 - Price Comparison System
 
@@ -256,6 +242,3 @@ GET /recommend/1
 
 ---
 
-# 📜 License
-
-This project is created for educational and college project purposes.
